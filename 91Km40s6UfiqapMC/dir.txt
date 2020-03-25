@@ -1,0 +1,31 @@
+.
+├── 0324
+│   ├── 0324.zip
+│   ├── 13_信息技术周末独立作业（附答案）.pdf
+│   ├── 14_图像处理复习2.ppt
+│   ├── 14_图像处理复习2.pptx
+│   ├── 14_图像处理复习2练习.pdf
+│   ├── 2020认识地区参考答案.pdf
+│   ├── 3月24日作业清单.xlsx
+│   ├── 专题3  第二单元 第4课时大本答案.docx
+│   ├── 专题3  第二单元 第4课时小本答案.docx
+│   ├── 认识地区1.pptx
+│   └── 通用技术3.24作业.docx
+├── 1074_0bc3embjsaacvqaayft25rpdaiyeterqfgka.f20.mp4
+├── LJL&&FZ AK，FJL端茶送水。.xlsx
+├── To China Daily.docx
+├── Unit 5 Music.pdf
+├── dir.txt
+├── e5ba33c63f5362dd61c1ca297030e633de574b70.m4a
+├── tjg_3515720216_50000_c28fea1a11374ced95559d9d7dcd6cfe.f10002.mp4
+├── 录音 (2).m4a
+├── 录音 (3).m4a
+├── 录音 (4).m4a
+├── 录音 (5).m4a
+├── 录音 (6).m4a
+├── 录音.m4a
+├── 我的体育老师.docx
+├── 绝对值不等式作业答案.docx
+└── 通用技术3.20作业.docx
+
+1 directory, 27 files
